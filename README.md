@@ -1,7 +1,7 @@
-# games
+# Bubble -shooter - games
 
 A new Flutter project.
-https://github.com/user-attachments/assets/d9526474-757a-497b-94b6-3759befbdb5f
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
